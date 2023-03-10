@@ -33,4 +33,4 @@ $ npm install
 $ npm run dev
 ```
 * A biblioteca precisa ser configurada com a chave secreta da sua conta, que está disponível ao se cadastrar site "https://platform.openai.com/overview". 
-Configure a chave de API como uma variável de ambiente em .env.
+Configure a chave de API como uma variável de ambiente em .env. Em seguida utilize o método POST em json com a linha "prompt:"
